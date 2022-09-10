@@ -1,0 +1,20 @@
+.top{
+    background-color: #E4F9F5;
+    
+}
+.middle{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+
+}
+.bottom{
+    background-color:rgb(239, 12, 12);
+    width: 200px;
+    height: 200px;
+  
+}
+body{
+    margin: 0px;
+   
+}
